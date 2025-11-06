@@ -42,6 +42,8 @@ npm run serve:ssr
 
 Check out the site: https://indraneel316.github.io/
 
+**Note:** This repository is named `indraneel316.github.io` to deploy to the root URL.
+
 ## 📧 Contact
 
 For questions or feedback, feel free to reach out:
