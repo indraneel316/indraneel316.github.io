@@ -26,6 +26,7 @@
               "namedChunks": false,
               "aot": true,
               "extractLicenses": true,
+              "baseHref": "/portfolio-site/",
               "budgets": [
                 {
                   "type": "initial",
